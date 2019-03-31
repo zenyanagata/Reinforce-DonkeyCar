@@ -1,4 +1,4 @@
-# Smoother and Faster
+# PPO on DonkeyCar Simulator
 
 Using reeinforcement learning algorithm **PPO** and a Variational AutoEncoder (**VAE**) in the DonkeyCar simulator.
 
