@@ -84,7 +84,7 @@ To cite this repository in publications:
 ```
 
 ## Credits
-- [Antonin Raffin](https://github.com/araffin/learning-to-drive-in-5-minutes) for the original implementation
+- [Antonin Raffin](https://github.com/araffin/learning-to-drive-in-5-minutes) for the original implementation.
 - [Tawn Kramer](https://github.com/tawnkramer) for Donkey simulator and Donkey Gym.
 - [Stable-Baselines](https://github.com/hill-a/stable-baselines) for DDPG/SAC and PPO implementations.
 - [RL Baselines Zoo](https://github.com/araffin/rl-baselines-zoo) for training/enjoy scripts.
