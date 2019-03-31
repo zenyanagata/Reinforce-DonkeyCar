@@ -2,7 +2,7 @@
 
 Using reeinforcement learning algorithm **PPO** and a Variational AutoEncoder (**VAE**) in the DonkeyCar simulator.
 
-Video: [https://www.youtube.com/watch?v=udPiZA4nsK0](https://www.youtube.com/watch?v=iiuKh0yDyKE)
+Video: [https://www.youtube.com/watch?v=udPiZA4nsK0](https://www.youtube.com/watch?v=udPiZA4nsK0)
 
 
 ![result](content/sample.gif)
