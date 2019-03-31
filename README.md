@@ -68,21 +68,6 @@ DonkeyVae-v0:
   learning_rate: !!float 3e-3
 ```
 
-## Citing the Project
-
-To cite this repository in publications:
-
-```
-@misc{Reinforce-DonkeyCar,
-  author = {Zenya Nagata},
-  title = {PPO on DonkeyCar Simulator},
-  year = {2019},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/zenyanagata/Reinforce-DonkeyCar/}},
-}
-```
-
 ## Credits
 - [Antonin Raffin](https://github.com/araffin/learning-to-drive-in-5-minutes) for the original implementation.
 - [Tawn Kramer](https://github.com/tawnkramer) for Donkey simulator and Donkey Gym.
