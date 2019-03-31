@@ -26,7 +26,7 @@ python enjoy.py --algo ppo2 --log_path path-where-the-trained-pkl-is-saved
 ```
 
 All the hyperparameters of PPO are stored in `hyperparams/ppo2.yml` and
-all the congirugrations are stored in  `config.py`.
+all the configurations are stored in  `config.py`.
 
 ## Train the Variational AutoEncoder (VAE)
 
